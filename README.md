@@ -20,7 +20,7 @@ The Workflow of Trading Simulation Flow. There are four Phases, namely **Initial
 conda create --name stockagent python=3.9
 conda activate stockagent
 
-git clone https://github.com/dhh1995/PromptCoder
+git clone https://github.com/itzsahil-prog/PromptCoder
 cd PromptCoder
 pip install -e .
 cd ..
@@ -56,7 +56,7 @@ We set gemini-pro for default LLM.
 
 #### About ’procoder‘
 
-Here we use the: https://github.com/dhh1995/PromptCoder.git this tool, please download after its installation.
+Here we use the: https://github.com/itzsahil-prog/PromptCoder.git this tool, please download after its installation.
 
 #### Citation
 If you find the code is valuable, please use this citation.
